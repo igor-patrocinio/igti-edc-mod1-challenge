@@ -96,7 +96,7 @@ def pipeline_enem():
                         "maximizeResourceAllocation": "true"
                     }
                 }
-            ],
+            ])
 
         #     Steps=[{
         #         'Name': 'Primeiro processamento do ENEM',
